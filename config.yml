@@ -1,0 +1,16 @@
+worlds-amount: 1
+worlds:
+  1:
+    name: "Bubbles"
+    desc: "From the mystical time and on, the amazing bubbles"
+    center: "Bubbles_771.0_46.0_528.0"
+    lobby: "Bubbles_889.4_5.0_520.0"
+    corner1: "Bubbles_702.5_88.5_600.1"
+    corner2: "Bubbles_849.5_4.0_434.5"
+    authors:
+      - Swaggle
+      - AcceptedAppeal
+    spawns:
+      - "Bubbles_836.5_44.0_528.5"
+      - "Bubbles_827.5_44.0_495.5"
+      - "Bubbles_804.5_44.0_472.5"
